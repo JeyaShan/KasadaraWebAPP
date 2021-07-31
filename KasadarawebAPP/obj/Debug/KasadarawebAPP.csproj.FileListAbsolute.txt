@@ -1,0 +1,152 @@
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\KasadarawebAPP.dll.config
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\KasadarawebAPP.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\KasadarawebAPP.pdb
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csc.exe
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csc.exe.config
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csc.rsp
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csi.exe
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csi.exe.config
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csi.rsp
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.AppContext.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Collections.Immutable.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Console.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.Compression.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.FileSystem.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.Pipes.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.AccessControl.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Claims.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.ValueTuple.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Xml.XPath.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\vbc.exe
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\vbc.exe.config
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\vbc.rsp
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\VBCSCompiler.exe
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\roslyn\VBCSCompiler.exe.config
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\Newtonsoft.Json.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Net.Http.Formatting.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.WebHost.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\Newtonsoft.Json.xml
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Net.Http.Formatting.xml
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.xml
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.WebHost.xml
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\obj\Debug\KasadarawebAPP.csprojAssemblyReference.cache
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\obj\Debug\KasadarawebAPP.csproj.CoreCompileInputs.cache
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\obj\Debug\KasadarawebAPP.csproj.CopyComplete
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\obj\Debug\KasadarawebAPP.dll
+c:\users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\obj\Debug\KasadarawebAPP.pdb
+C:\Users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Cors.dll
+C:\Users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.Cors.dll
+C:\Users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.Cors.xml
+C:\Users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\Unity.Abstractions.dll
+C:\Users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\Unity.Container.dll
+C:\Users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\Unity.Abstractions.pdb
+C:\Users\my pc\source\repos\KasadarawebAPP\KasadarawebAPP\bin\Unity.Container.pdb
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\KasadarawebAPP.dll.config
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\KasadarawebAPP.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\KasadarawebAPP.pdb
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csc.exe
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csc.exe.config
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csc.rsp
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csi.exe
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csi.exe.config
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\csi.rsp
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.AppContext.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Collections.Immutable.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Console.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.Compression.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.FileSystem.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.IO.Pipes.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Reflection.Metadata.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.AccessControl.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Claims.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.ValueTuple.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Xml.XPath.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\vbc.exe
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\vbc.exe.config
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\vbc.rsp
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\VBCSCompiler.exe
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\roslyn\VBCSCompiler.exe.config
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\EntityFramework.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\EntityFramework.SqlServer.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Microsoft.Web.Infrastructure.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Newtonsoft.Json.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Swashbuckle.Core.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Net.Http.Formatting.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Cors.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.Cors.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.WebHost.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Unity.Abstractions.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Unity.Container.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\WebActivatorEx.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\EntityFramework.xml
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\EntityFramework.SqlServer.xml
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Net.Http.Formatting.xml
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.xml
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.Cors.xml
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Unity.Abstractions.pdb
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Unity.Container.pdb
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Newtonsoft.Json.xml
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\System.Web.Http.WebHost.xml
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\obj\Debug\KasadarawebAPP.csproj.CoreCompileInputs.cache
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\obj\Debug\KasadarawebAPP.csproj.CopyComplete
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\obj\Debug\KasadarawebAPP.dll
+E:\Kas_test\KasadarawebAPP\KasadarawebAPP\obj\Debug\KasadarawebAPP.pdb
