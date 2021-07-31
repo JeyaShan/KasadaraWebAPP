@@ -1,0 +1,20 @@
+<p-table [value]="EmployeeData">
+  <ng-template pTemplate="header">
+      <tr>
+          <th>Employee Name</th>
+          <th>Manager ID</th>
+          <th>Hire Date</th>
+          <th>Salary</th>
+      </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-Employee>
+      <tr>
+         
+          <td>{{Employee.FirstName}} {{Employee.MiddleName}} {{Employee.LastName }}</td>
+          <td>{{Employee.ManagerID}}</td>
+          <td>{{Employee.HireDate}}</td>
+          <td>{{Employee.Salary}}</td>
+          
+      </tr>
+  </ng-template>
+</p-table>
