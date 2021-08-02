@@ -33,6 +33,6 @@ namespace KasadarawebAPP.Models
     {
         public int StatusID { get; set; }
         public string StatusMessage { get; set; }
-        public EmployeeData EmployeeData { get; set; }
+        public Employeetable EmployeeData { get; set; }
     }
 }

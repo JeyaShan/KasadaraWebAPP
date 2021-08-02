@@ -1,0 +1,56 @@
+<div class="col-sm-12 row">
+    <P><strong>{{ Employeelisttoggleheading}}</strong></P>
+    <button type="button" [ngClass]="toggleval === 0?'btn btn-toggle':'btn btn-toggle active'" (click)="Toggleclick()"  data-toggle="button" aria-pressed="true" autocomplete="off"></button>
+      <div class="handle"></div> 
+  </div>
+ 
+ 
+ <button class="btn btn-lg btn btn-success" style="float:right" (click)="ExportExcel()">Export Excel</button>
+ <button class="btn btn-lg btn btn-primary" style="float:right;margin-right:10px;" (click)="open()">Add Employee</button>
+  <div class="form-group form-inline">
+       <input class="form-control ml-6" [(ngModel)]="Searchtext" type="text" placeholder="search name with lower case" />
+      
+    </div>
+
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Full Name</th>
+      <th scope="col">Manager ID</th>
+      <th scope="col">Hire Date</th>
+      <th scope="col">Salary</th>
+      <th>Edit</th>
+      <th>Delete</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let emp of employeelist | TableSearchPipe:Searchtext; index as i">
+      <th scope="row">{{ i + 1 }}</th>
+      <td>{{ emp.FirstName }} {{emp.MiddleName}} {{ emp.LastName}}</td>
+      <td>{{ emp.ManagerID }}</td>
+      <td>{{ emp.HireDate }}</td>
+      <td>{{ emp.Salary }}</td>
+      <td><i (click)="Editemployee(emp.ID)" class="bi bi-pencil-square"></i></td>
+      <td><i (click)="Deleteemployee(emp.ID,content,emp.FirstName)" class="bi bi-trash-fill"></i></td>
+    </tr>
+    </tbody>
+</table>
+
+<ng-template #content let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title">Confirmation Message</h4>
+      <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <p><strong>Name : {{deleteemployeename}}</strong>  </p>
+      <p>Are you sure want to delete Employee ?</p>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-danger" (click)="DeleteConfirm()">Yes</button>
+      <button type="button" class="btn btn-light" (click)="modal.close('Close click')">Close</button>
+    </div>
+  </ng-template>

@@ -85,17 +85,17 @@ namespace KasadarawebAPP.Repository
             EmployeeDataModel data = new EmployeeDataModel();
             try
             {
-                data.EmployeeData = new EmployeeData();
+                data.EmployeeData = new Employeetable();
                 data.EmployeeData = (from emp in _connectionDB.employeetables.AsEnumerable()
                                      where emp.ID == ID
-                                     select new EmployeeData {
+                                     select new Employeetable {
                                           FirstName=emp.FirstName,
                                            ID=emp.ID,
-                                            HireDate= emp.HireDate.ToString("dd MMMM yyyy"),
+                                            HireDate= emp.HireDate,
                                              LastName=emp.LastName,
                                               ManagerID=emp.ManagerID,
                                                MiddleName=emp.MiddleName,
-                                                Salary=emp.Salary.ToString("0.00")
+                                                Salary=emp.Salary
 
             }).FirstOrDefault();
 
